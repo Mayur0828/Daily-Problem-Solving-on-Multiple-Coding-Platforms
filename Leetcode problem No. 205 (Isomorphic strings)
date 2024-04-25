@@ -14,7 +14,7 @@ Output: false
 
 Test-case 3:
 Input: s = "paper", t = "title"
-Output: true
+Output: true.
  
 
 Constraints:
