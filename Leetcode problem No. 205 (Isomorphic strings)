@@ -10,7 +10,7 @@ Output: true
 
 Test-case 2:
 Input: s = "foo", t = "bar"
-Output: false
+Output: false.
 
 Test-case 3:
 Input: s = "paper", t = "title"
